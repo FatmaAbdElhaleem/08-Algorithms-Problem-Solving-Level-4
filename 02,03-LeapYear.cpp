@@ -9,6 +9,9 @@ using namespace std;
 // except for century years (years ending with 00),
 // which are leap years only if they are perfectly divisible by 400.
 
+// Problem: #3/4
+// simplify the function into a one-line.
+
 short readYear()
 {
     short year;
